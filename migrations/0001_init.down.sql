@@ -1,0 +1,1 @@
+DROP SCHEMA realm_data CASCADE;
